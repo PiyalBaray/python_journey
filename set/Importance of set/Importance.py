@@ -1,0 +1,1 @@
+print("All the functions that are used in a list and Tuple can also be used in a set")
