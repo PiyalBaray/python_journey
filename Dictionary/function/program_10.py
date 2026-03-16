@@ -4,3 +4,4 @@ a = {'Name':'piyal', "Roll No":12, 'Collage name':'Seacom Skills University'}
 
 print(len(a))
 print(sorted(a))
+print(sorted(a,reverse=True))
