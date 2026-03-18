@@ -1,3 +1,5 @@
+# give a any number and make this number power then sat this result is even or odd
+
 def power(a=1,b=1):
     """ This function returns any valid number power value
     input : any valid number
